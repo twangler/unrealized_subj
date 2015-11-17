@@ -7,9 +7,10 @@ __author__      = "Thomas Wangler"
 import re
 
 
-dep_file = open('tuebadz_conll06_sample.conll')
+dep_file = open('tuebadz-10.0-conll2006.txt.parsed.conll')
+out_file = open('tuebadz_v_greater_sb.conll', 'r+')
 
-sb_pattern = re.compile("..\t.+\t.+\t.+\t.+\t.+\tSB")
+sb_pattern = re.compile("\w+\t.+\t.+\tV")
 sep_pattern = re.compile("\w")
 
 flag = 0;
@@ -33,13 +34,18 @@ for line in dep_file:
     
   
   if len(line) > 1:
-    curr_sentence.append(line.split("\t")[1])
+    curr_sentence.append(line)
   if sb_m:
     flag = 1
   if not sep_m:
-    if  c_sb < c_v and flag == 0:
-      print curr_sentence
+    if  c_sb < c_v:
+      for element in curr_sentence:
+	print 'gotcha'
+	out_file.write(element)
+      out_file.write('\n')
     curr_sentence = []
     flag = 0
     c_sb = 0
     c_v = 0
+    
+out_file.close()
