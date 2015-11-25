@@ -1,0 +1,450 @@
+#Sentences w/o subj-dep to lemma (verwalten) :
+selbst wenn der Zwei-Millionen-Marks-Topf für Assistenzen künftig vom Bildungsressort verwaltet werde , müsse dort " noch vieles erarbeitet werden . " 
+Der Hemmschuh laut Bericht : Nach dem bekannten McKinsey-Gutachten sollen städtische Gebäude künftig zentral bewirtschaftet und verwaltet werden . 
+Da deutsche Friedhöfe mit deutscher Gründlichkeit und ähnlich streng wie Badeanstalten verwaltet werden , ist nicht damit zu rechnen , daß die Stadt diesmal etwas einfühlsamer mit ihrem kulturellen Erbe umgeht . 
+Und weil sich der Sport selbst verwalten , kontrollieren und auch disziplinieren soll , hat es bisher kaum jemanden gekümmert , was da so passiert im Mikrokosmos leibesübender Erfolgsmenschen . 
+Das Haus wird von der Wohnungsbaugesellschaft Mitte verwaltet , die nach Angaben der zuständigen Mitarbeiterin Rosemarie Skwarra nichts Grundlegendes unternehmen könne , weil die Eigentumsverhältnisse immer noch nicht geklärt seien . 
+Ein reiner Überschuß der Kräfte wird vorgeführt , der zwar strengen , selbstauferlegten Disziplinierungen folgt und seine Energien präzise verwaltet und doch durch die Zwecklosigkeit seines Tuns gegen die Logik der Ökonomie und die Funktionalisierung des Körpers protestiert . 
+Plötzlich hieß es , über den Kauf des Geländes , das von der Bundesvermögensstelle als Treuhänderin bundeseigener Grundstücke verwaltet wird , solle doch verhandelt werden . 
+
+Lemma: verwalten, total: 18, w/ subj-dep: 11
+
+#Sentences w/o subj-dep to lemma (trinken) :
+Frauen , die trinken 
+Ein Schlückchen Wein trinken . 
+Ein Schlückchen Wein trinken . 
+Die halbe Hundertschaft deutscher Talkmaster - doch , doch , so viele gibt es wirklich ! - hatte der Diplomand von der Kölner Kunsthochschule für Medien angeschrieben , damit sie für ihn und seine Abschlußarbeit vor laufender Kamera letztlich nichts anderes tun als in einer gewöhnlichen Talkshow : dasitzen eben , sich räuspern , vielleicht ein Schlückchen Wein trinken usw. - nur daß sie dabei , so Wilkes' Einfall , kein Wort reden sollten . 
+Nach eigener Aussage hatte er zu diesem Zeitpunkt zwei Nächte kaum geschlafen und neben Whiskey und Pernod " mindestens acht bis zehn halbe Liter Bier " getrunken . 
+Stundenlang sitzt er da , trinkt Bier und schaut trübe in Richtung Fernseher . 
+Die Teilnahme an den Veranstaltungen war eben mehr als nur auf dem Marktplatz zu stehen und Bier zu trinken . 
+Er zweifelte , war ratlos , trank zuviel . 
+Wir danken tapfer und trinken in der kleinen engen Küche schweißgebadet das heiße Getränk . 
+Plötzlich sangen und tranken und tanzten nicht nur die Schottenröcke . 
+Während Kain Karawahn die Nacht zum Tag macht , trinken die Kreuz- und Prenzlberger Brüder- und Schwesternschaft . 
+In kleinen Gruppen sitzen Männer auf dem Boden , trinken Bier , spielen Karten . 
+Nachts um zwei , wenn Theater und Kino aus sind und man ein letztes Weinchen getrunken hat , entfaltet der Verkehr ein letztes Crescendo . 
+Und etwas tun , das können die Deutschen immer noch am besten , wenn sie einfach arbeiten müssen - ansonsten fangen sie an zu denken und dann zu trinken und das endet dann meist übel . 
+In China , Taiwan und Südkorea wird aus dem Skelett der Tiere ein Wein hergestellt , der als Stärkungsmittel getrunken wird . 
+Er war auch ein ganz besorgter Vater , aber wenn er getrunken hat , hat er unsere Kinder geschlagen - immer dann , wenn ich nicht zu Hause war . 
+Fußball ist zum Beispiel für viele Hausfrauen eben kein patriotischer Zeitvertreib , sondern bedeutet , daß Männer vor dem Fernseher hocken , Bier trinken oder daß Fußballschuhe geputzt werden müssen . 
+Die Leute haben weniger getrunken . " 
+Haben die Auswärtigen genug gekauft , gegessen und getrunken , können sie sich an einer beliebigen Ecke vom Taxi wieder abholen lassen . 
+Ich halte mich oft in diesen Bereichen auf , etwa um schnell einen Kaffee zu trinken oder um jemanden zu treffen oder um zu telefonieren und so weiter . 
+Trotzdem und obgleich beide Whisky tranken , fanden beide nicht so recht zueinander und wirkten so rührend wie Verliebte , die sich immer nur sprachlos anstrahlen können . 
+Schon bald wurde klar , in welche Richtung Zippel wollte : Da waren zwei junge Kerle , von Beruf Polizisten , die in ihrer Freizeit etwas zuviel getrunken hatten , dann zufällig auf Dialle D. trafen und ausrasteten . 
+Mann ist befriedigt , feixt oder trinkt einen drauf . 
+Er habe nach dem Tod der Kinder aus einem Gefühl der Mitschuld heraus viel getrunken : 
+Blut trinken , Dante zitieren und katholisch sein : Abel Ferraras " The Addiction " 
+Daß Ferrara hier wieder mal verarbeitet , daß er in seiner katholischen Kindheit zuviel Weihwässerchen hat trinken müssen , etwas , was einem selbst " Bad Lieutenant " fast noch versaut hätte , war keine Überraschung . 
+" Er ißt körbeweise Äpfel und trinkt literweise Tomatenschorle . " 
+Wenn nicht gespielt wird , kauern die Fans an den Tischen der Freßzelte unter ihren Schirmen und trinken ihr Bier , während die Verkäufer flugs auf Plastikumhänge umgestellt haben . 
+In Nullkommanix hat er sie unbemerkt aufgezogen und zerkaut , während der Schuhträger die Füße unter den Küchentisch gestreckt hat und Kaffee trinkt . 
+" Wenn wir wieder in Irland sind , können wir ja mal ein Bier trinken gehen . " 
+Er raucht und trinkt , und er interessiert sich für Dreck - die Ängste und Ressentiments der Hörer , auch gegen ihn als Juden . 
+Schweigend sitzen wir zusammen und trinken , und jeder von uns sieht über den Rücken des anderen ein Stück der Mauer . 
+Nachdem er eine Menge Alkohl getrunken hatte , versteckte er sich am 28. Januar gegen 2.30 Uhr in einem Hausflur in der Weddinger Schwedenstraße und überfiel die 23jährige Studentin Anna H. , die gerade auf dem Nachhauseweg war . 
+Man kann also weder miteinander reden , noch tanzen , im Grunde genommen nur : trinken , Musik hören , zwischendurch mal auf Toilette gehen . 
+Minuten später wälzten wir unsere Bäuche im Sand , falteten eine 'Bild'-Zeitung über unsere Köpfe , tranken lauwarme , klebrige Limonade , suchten den Horizont nach Schiffen ab und packten die Mettwurststullen aus . 
+
+Lemma: trinken, total: 63, w/ subj-dep: 28
+
+#Sentences w/o subj-dep to lemma (verstehen) :
+Liebe tazzen , versteht ihr 's wirklich nicht ? 
+Meine Aussage im Interview " Diskussionen um Menschenrechtsverletzungen spielen weder bei den Spendern noch bei den Hilfsangeboten eine Rolle " ist nur im Zusammenhang mit dem Inhalt der gestellten Fragen zu verstehen . 
+Heute versteht sich Görlitz als " überzeugter Anarchist " . 
+Schröder , lässig und munter , sagt , daß er " stolz darauf ist , daß die Deutschen so hilfsbereit sind " , sagt , daß er verstanden habe , daß die Kosovaren die " Sehnsucht haben , frei und sicher in ihrer Heimat zu leben " , und es klingt wie eine Drohung , als er anfügt , " bis dahin " seien sie in Deutschland willkommen . 
+Die Koalition habe es zwar " sehr gut verstanden , eine relativ gute Stimmung in der Stadt zu suggerieren " . 
+Doch um es über allgemeines Mitgefühl hinaus zu verstehen , braucht es die Erläuterung : Bild und Text gehören zusammen . 
+" Und ich dachte , du würdest verstehen . 
+Man muß nicht die historische Parallele zu Auschwitz bemühen , um zu verstehen , daß die Politik der " ethnischen Säuberungen " notfalls auch militärisch bekämpft werden muß , bevor sie ganz Europa vergiftet . 
+Das IOC möchte dies auch als finanzielle Hilfe verstanden wissen . 
+Als dann auch noch die Stewardeß eine Bestellung vom Nachbarsitz , " einen Tomatensaft mit Pfeffer und Salz " , nicht verstand , mußte ich es einfach wissen . 
+Kultur wird dabei verstanden als das System der Werte und Standards , mit dem menschliche Gemeinschaften sich voneinander unterscheiden und worin sie die zentralen Elemente ihrer Lebensweise sehen . 
+Kultur so zu verstehen , entspricht den Vorstellungen der Anthropologen . 
+Denn hier wird mehr verstanden , als wir verstehen wollen . 
+Versteht ihr nicht : Der Mann hat mit Diplomatie nichts mehr am Hut , der ist in der Politik immer nur auf die Schnauze gefallen , der will jetzt endlich zurückhauen . 
+Labour hat sich hier nie um Nachwuchs gekümmert , meine Wahlhelfer sind alles alte Männer , die anfangs gar nicht verstanden haben , warum wir überhaupt Wahlkampf machen sollen . 
+Auch der Beikonsum an Pillen etc. ist nicht als eine Maßlosigkeit der Sucht zu verstehen , sondern Ausdruck eines Mißverständnisses der Drogenpolitik : Der Glaube , daß man ausschließlich mit einer rauschlosen Ersatzdroge dem Wunsch unter Konsumenten nach Rausch entgegentreten könnte . 
+" Wir dürfen darauf hinweisen , daß vorgenannte Entscheidung allein aufgrund firmeninterner Belange getroffen worden ist und nicht als Ausdruck von Unzufriedenheit über unsere langjährigen Beziehungen zu verstehen ist " . 
+Und bisher , das wurde dem Wahlbürger in Statements und Interviews klargemacht , verstand Bürgermeister Henning Scherf unter diesen positiven Kräften vor allem den derzeitigen Koalitionspartner CDU . 
+Der frühere taz-Journalist Rolf Paasch sah in ihr eine Haushälterin , die es verstanden habe , " den tief in der englischen Psyche verwurzelten Masochismus " anzusprechen . 
+Um also zu verstehen , was für ein Charakter Steve Everett ist , bedarf es nicht des Autostunts am Schluß , der den Dirty Harry in Clint Eastwood herbeizitiert . 
+Die Kindheit Europas : Man kann , um Handkes Satz und vielleicht seine einsame Flußfahrt in diesen Tagen besser zu verstehen , einen anderen Reisebericht aus der Region wiederlesen . 
+Theo hingegen bleibt Zeit seines Lebens dem Kommunismus treu - und versteht sich deswegen nicht sehr gut mit dem Vater , der heute in einem Altenheim lebt und für den Sohn nur Schweigen übrig hat . 
+Nach dem heftigen Streit um die Friedenspreisrede Martin Walsers im vergangenen Jahr hat man mit dem US-amerikanischen Historiker Fritz Stern nun für 1999 einen Preisträger erkoren , der wenig Widerspruch hervorrufen dürfte und dessen Wahl sich als nachträglicher Kommentar zur Walser-Debatte verstehen läßt . 
+Illegal , versteht sich . 
+Was darunter jedoch zu verstehen ist , weiß bisher auch Vojtech Bugar , der Vorsitzende der " Ungarischen Christdemokraten " - der stärksten ungarischen Partei - nicht genau : 
+Ich nenne es vorerst für mich , Prometheische Scham ` und verstehe darunter die Scham vor der , beschämend ` hohen Qualität der selbstgemachten Dinge . 
+Obwohl mir völlig neu war , daß die Wohlfahrt in anderen Städten weniger aufdringlich ist - wie " Quayle " vermuten ließ - , dachte ich doch einen Augenblick , ich hätte verstanden , was er wollte . 
+Also , wenn wir die Briten richtig verstanden haben wollen , handelt es sich bei Juan und seinen 94 Komplizen aus dem Lausanner Marmorpalast um die korrupteste Bande auf Gottes Erdboden . 
+Der Alte aus Königsberg hätte das verstanden - von Fortschritt hätte er nicht gesprochen . 
+Bei allen Gegensätzen zwischen West- und Ostdeutschen in der Lebenserfahrung , die nur allzu oft dazu führt , daß man einander nicht versteht , sich nicht ausreichend verständlich machen kann , unbewußt aneinander vorbeiredet - das kann jedenfalls nicht der Weg sein , daß wir zueinander finden . 
+Um " Tonnen an Waschmitteln " zu sparen , sollen die Gäste zum Beispiel ihre Handtücher mehrfach verwenden statt sie täglich in die Wäscherei zu geben , freiwillig versteht sich . 
+Wie das Papier soll auch der Aufruf zur Gründung als " Angebot " , als " Hilfe zur Selbsthilfe " verstanden werden . 
+Deng Yingchao gehörte wie der kürzlich verstorbene Li Xiannian zur Gruppe der hochbetagten konservativen PolitikerInnen im Zentrum der Macht , die zwar keine offizielle Funktion mehr ausüben , sich aber weiterhin als Garanten des Systemerhalts verstehen . 
+Ganz nebenbei wird in diesen Geschichten auch noch deutlich , in welcher Welt Annemarie Schimmel eigentlich lebt : Sie kann sich besser in die Familie eines Kalligraphen am osmanischen Hof versetzen , als das zeitgenössische Drama einer algerischen Großfamilie verstehen , die zwischen FIS und Säkularisten schwankt . 
+" Wenn ich etwas gut kann , dann kommen sie zu mir , aber wenn ich etwas nicht verstanden habe , etwa wegen Sprachschwierigkeiten , kümmert sich kaum jemand um mich " , sagt Khalil . 
+Die Ortsvereinsvorsitzenden saßen dabei und hörten es und verstanden : eine neuerliche Niederlage bei dem Versuch der politischen Karriere will sich der Professor , der seinen eigentlichen Beruf offenbar nicht mag , wohl ersparen . 
+Eben die Frau , die wie keine sonst dafür sorgte , die Gitarre als genuines Musikinstrument des Protests zu verstehen - einfach , praktisch und gut , sozusagen rund um die Uhr unplugged . 
+Im ganzen Land hat der Staat Geschäfte eröffnet , in denen Seife , Öl , Waschpulver , Milch , Butter , nationales oder importiertes Bier , Unterwäsche , italienische Schuhe , Sony-Farbfernseher , kurz : all das verkauft wird , was es in Kuba weder auf dem rationierten noch auf den freien Märkten gibt - gegen Dollars , versteht sich . 
+Seit einigen Wochen habe ich Probleme mit dem Filialleiter Herrn Hoting , der mir jetzt deutlich zu verstehen gab , daß mein Konto einen zu geringen Umsatz aufweise und er auf Kunden wie mich keinen Wert legen würde . 
+Andererseits schätzen auch viele Unternehmer den Profipolitiker , der nicht nur in Polen für die Prinzipien der Marktwirtschaft eintritt , sondern auch im Ausland gut zu repräsentieren versteht . 
+Wir lernen Fremdsprachen mit viel Aufwand , aber verstehen kaum mehr als den erhobenen Zeigefinder , das Naserümpfen und die hochgezogene Augenbraue . 
+Der Politiker , der Körpersprache zu entschlüsseln versteht , dem öffnen sich direkte Wege zu den anderen . 
+Niemand horcht auf , um Einzelheiten zu verstehen . 
+Was unter sozialen Bedingungen zu verstehen ist , wird noch im einzelnen zu definieren sein . 
+Da ist der Plattenvertrag mit der Großfirma , und da gibt es zumindest den Versuch , den Lärm zu zügeln , ihn als Soundelement im Dienste des Songs zu verstehen . 
+Im Rahmen der Kito-Reihe " Indien verstehen " werden der ehemalige Rektor der Universität von Rajasthan , Professor T. K. N. Unnithan , sowie der in Bremen lebende Philosophie-Professor Ram Adhar Mall über Ghandi sprechen . 
+Steht zu hoffen , daß Hamburgs Machos dem komplexen Sprachduktus der gelernten Philologin Weiss zu folgen verstehen . 
+Die können unsere Haltung vielleicht nicht verstehen und sind auch wütend darüber , daß wir anders denken . 
+" Er hat verstanden , wie Fußball gespielt werden kann . " 
+Überträgt man dieses Modell aufs Kollektive , so läßt sich die Kultur als ein Symptom verstehen , das auf Verdrängtem aufbaut und so Ausschlüsse produziert , bestimmte Erinnerungen fordert , andere unterbindet oder gar unmöglich macht . 
+Denn wenn Du über die DJ's im Kampf gegen die Musiker herziehst ( " DJ's verstanden Spaß nicht ... die lustigen Störenfriede von der Bühne zu scheuchen " ) , hast Du Null mitbekommen , daß das echte Live-Musik von Musikern ... ) war , die Du als Plattenaufleger verkauft hast . 
+Du hast nicht verstanden , daß das Experiment darin bestand , scheinbar unvereinbare Musik wie Grunge / Hardcore und verschiedene Stilformen des Techno zusammenzubringen . 
+Man warf ihm vor , zu lange die Nachfolgestaaten der UdSSR , die Rußland als seinen angestammten Vorgarten versteht , nicht beachtet zu haben . 
+Zum einen ist " Outside " alles andere als eingängig - man muß es schon zehn- bis zwanzigmal hören , um die Wege zu verstehen , die die Musik geht - , zum anderen wirkt das meiste - von der Ausgedachtheit der im Cut-up-Computer zerstückelten HeldInnen bis zu den auseinanderfallenden Musikzitaten - auf eine schon bestürzende Art entfremdet . 
+Wenn man sich mit jemandem versteht und gut reden kann , stört das keinen . 
+Und wer es immer noch nicht verstanden hat : Das letzte Bild ist ein Kreuz . 
+Auch 30 Jahre nach den ersten Unruhen in Rom versteht ein Polizist immer noch nicht , warum er damals nicht hätte draufhauen sollen 
+" Marlies war schon viel älter als wir , versteht ihr ? 
+Das exzessive Rülpsen hingegen gilt nur in seiner klangästhetischen Bewertung als umstritten : In erster Linie Stimmung und Meinungen vermittelnd , als quasi unterste , aber nichtsdestotrotz agilste Verständlichmachung sozial grundwichtiger Sachverhalte wie " Mir hat 's geschmeckt " , " Mir geht 's pfundig " oder " Mir ist heut' so " , wird mit dem exzessiven Rülpsen aus dem Gefühl des Wohlbehagens heraus häufig erneuter (Bier-)Trinkwunsch paraphrasiert und von den meisten Bedienungskräften öffentlicher Schankstätten auch so verstanden . 
+Ich habe es nie verstanden . 
+Schließlich im " Viertel " ( Steintor ) angekommen , schlug Frau Heyduck einen kleinen Snack vor und gab gleich zu verstehen , sie könne sich " jetzt durchaus mal kurz hinlegen " , das würde ihr guttun . 
+Aus dieser Kritik heraus ist die Suche nach neuen Formen und Schreibweisen zu verstehen : der Schritt zur Postmoderne , zur Posthistorie , zum neuen historischen Roman , zur Metropolenliteratur . 
+Wobei es auf Walburg " angeschafft und lächerlich " wirkt , " wenn sich jemand im Jahr 1997 über staatliche Manipulation aufregt " , während Grothgar den Staat nicht als Gummizelle , sondern punktuell durchaus noch als Kampfpartner versteht . 
+Dieses Museum ist kein " Kulturbunker " , es bietet die Möglichkeit , mehr zu verstehen . 
+" Henna an Frau " , weiß Didi , " macht Haare rot , und ganze Frau warm , das mögen Mann , verstehn ? " 
+Die Tatsache , daß diese Lösung aller Wahrscheinlichkeit nach seinen Tod bedeuten würde , schockierte ihn nicht und kümmerte ihn auch nicht besonders , und als Musa der Lebensmittelhändler eines Tages etwas von den zwölf Frauen des Propheten murmelte , ein Gesetz für ihn , ein anderes für uns , da verstand Baal , welche Form seine endgültige Konfrontation mit dem Gehorsam nehmen mußte . 
+Doch selbst was unter einem Erfolg des runden Tisches zu verstehen ist scheint unklar zu sein . 
+Die Inserate von suchenden Singles stellten das Textmaterial dar , deren Merkmale , so Merten , fraglos als Indizien für aktuelle Normen , Werte oder den derzeitigen Lebensstil in der Bundesrepublik Deutschland des Jahres 1988 verstanden werden können . 
+Auch die Ausgangssperre war nicht als Wundermittel verstanden worden , gehört sie doch in anderen Großstädten wie Detroit , Los Angeles oder Newark bereits zum gewohnten Arsenal der Ordnungshüter . 
+Ich fand es faszinierend , Bataille zu lesen , ohne ihn zu verstehen . 
+Gesindel heißt er nun das Spiel , welches zu bearbeiten er sich anschickt , worunter in der Hauptsache zu verstehen ist das Einfügen neuer Couplets , Songs & Balladen , im Schweiße seiner Füße selbst abgeschrieben von Fran?ois Villon & Rudyard Kipling . 
+Vor diesem Hintergrund ist die Trauerfeier auch als eine Huldigung an die Republik zu verstehen . 
+Aber der Tag wird kommen , an welchem Sie sich an unsere Warnungen erinnern und verstehen werden , daß Spanien das erste Schlachtfeld des Zweiten Weltkrieges war , der von Tag zu Tag unvermeidbarer wird . " 
+So muß sich wohl auch in Zukunft das Gros der busreisenden Jugendlichen Sprachbücher vor die Nase halten , wenn es gilt die Gleichaltrigen fremder Zunge verstehen zu lernen . 
+So jedenfalls wurde das von einer Bevölkerung verstanden , die seit Mitte der siebziger Jahre nur den permanenten Besatzungszustand kennt . 
+" Schön langsam ? " fragt er und scheint verstanden zu haben . 
+Sie verzichtet auf Anschaulichkeit , auf Videos und ähnlichen Firlefanz und schickt den Besucher statt dessen auf die Suche : In jedem Exponat kann der Schlüssel verborgen sein , die Revolution zu verstehen . 
+Sie haben in jedem Fall besser verstanden , den Zustand des Landes begreifbar zu machen , als die vielen ausländischen Journalisten , die ins Land einfallen , wenn Katastrophen schlimme Ausmaße annehmen . 
+Damit aber die bei ihrer Geburtstagsparty anwesenden Journalisten nicht vergessen , was sie schon ist , bekamen sie neben zahlreichen Geschenken von der Tennistasche über den Parfüm-Vaporisator bis zum argentinischen Wein auch ein Farbfoto der Holden verehrt , handsigniert , versteht sich . 
+Diese Delegationen sind einem Diktat unterworfen , und einigen hat man schon zu verstehen gegeben , daß nach dem Kongreß ihre persönlichen Parteiakten überprüft werden . 
+Hinzu kommt , daß man endlich weltweit angefangen hat zu verstehen , was eigentlich bei uns vorgeht ... 
+" Das wichtigste ist , daß er uns zuhört und zumindest versucht , unsere Probleme zu verstehen " , meinte der Präsidentensprecher Manuel Espinoza , während Warnke schon seit mehr als zwei Stunden mit Daniel Ortega und einigen Kabinettsmitgliedern zusammensaß . 
+Hier ist an erster Stelle die Volkskammer der DDR zu nennen , deren Blockparteien die militärische Niederwalzung des friedlichen Protestes auf dem Tienanmen nicht nur gebilligt , sondern geradezu enthusiastisch begrüßt haben - ohne Gegenstimmen , versteht sich . 
+Das ist nicht mehr der anonyme Staatsterror , mit dem unter Stalin oder Mao echte und eingebildete Staatsfeinde liquidiert wurden : Es ist die nervöse Überreaktion einer überalterten Führungsclique , die ihre Macht und ihre Privilegien bedroht sieht und die Zeichen der Zeit nicht mehr versteht . 
+Aber nach dem dritten oder vierten Monat haben sie sich erst richtig an das Programm gewöhnt , sie sind an Bord und verstehen , daß die Aufseher ihnen nur helfen wollen . 
+" Können wir keine Kritik haben , die den fadenscheinig gewordenen Kunstbegriff über Bord wirft und endlich die gesellschaftliche Funktion jeglicher Literatur als das Entscheidende versteht und damit die künstlerische Funktion als eine beiläufige erkennt ? " 
+Ich hatte verstanden , die Demokratie sei besessen von der Kritik . 
+
+Lemma: verstehen, total: 280, w/ subj-dep: 192
+
+#Sentences w/o subj-dep to lemma (hören) :
+Unter dem Titel " Cantos do Brasil " sind Lieder aus zwei Jahrhunderten zu hören , indianische Gesänge , soweit man sie rekonstruieren konnte , Volkslieder und zeitgenössische Kunstlieder von Komponisten , die uns unbekannt sind . 
+Und er ist die erste politische Stimme aus dem jugoslawischen Inferno , die nach eineinhalb Monaten Krieg direkt im Westen gehört werden kann . 
+Kein Wunder , daß Claus Neumann die Chancen auf einen akzeptablen Übergang in den Ruhestand stündlich schwinden sieht , vor allem , seit er gehört hat , daß der Betriebsrat bereits eine Fortbildungsveranstaltung zur neuen Insolvenzordnung besucht hat . 
+" Es zerbricht einem fast die Seele zu hören , was Sie alles durchgemacht haben " , sagte Clinton sichtlich bewegt am Ende seines Besuchs in dem Auffanglager , bei dem Flüchtlinge ihm ihre Erlebnisse schilderten . 
+Und hin und wieder pluckern die Rhythmen so ausgefeilt , als hätten sie tatsächlich schon mal was von Drum & Bass gehört . 
+Heute , im Krieg um das Kosovo , ist davon kaum noch etwas zu hören . 
+Man spricht schnell und hört , was zerstört wurde . 
+In den Medien höre und lese ich immer wieder , daß es keine Alternative zum Einsatz der NATO gab . 
+Um den Rest jamaikanischer Musik ist es , zumindest in Deutschland , noch nicht so gut bestellt : Reggae fristet eine ziemlich erbärmliche Existenz , als Bob-Marley-Platte zwischen Nirvana und den Doors in semiautonomen Plattenschränken , und Ska wird fast nur von kurzgeschorenen Londsdale-Pullover-Trägern gehört . 
+Oberärztin Uffland ( Daniela Ziegler ) hat noch nie von ihrem Promi-Patienten gehört . 
+Zur konsequenten Umsetzung einer solchen Strategie hätte aber auch gehört , anläßlich einiger Flaschen- und Steinwürfe das ganze Konzept nicht sofort über den Haufen zu werden und wahllos auf Demonstranten und Unbeteiligte einzuknüppeln . 
+Aber wer das Gebäude auf lange Sicht verwaltet , wer dort für das Programm zuständig sein wird , darüber sind derzeit nur widersprüchliche Absichten und Wünsche zu hören . 
+Gehört : Fidel-Bastro-Festival . 
+Im Nachbarhaus wohnt ein indischer Immigrant , der von den bevorstehenden Wahlen noch nichts gehört hat . 
+Ein großer Genuß war es auch , ihn bei Memphis Underground zu hören , das mit einem bossa-artigen Groove begann , um bei einem mitreißenden Funk-Beat zu landen . 
+Wohl habe er von der erhitzten Diskussion gehört . 
+" Ich mach das , was ich selbst sehen und hören möchte " : Katrin Rabus gönnt sich zum zwanzigjährigen Galeriejubiläum ein Festival 
+Schaut man sich aber jemand wie Crispian Mills von der englischen Band Kula Shaker an und hört deren mittlerweile zweites Album " Peasant , Pigs and Astronauts " , dann merkt man zumindest , daß Reisen auf den Subkontinent auch in den Neunzigern nicht ohne Wirkung bleiben . 
+Hätten Südafrikaner und andere Afrikaner gehört , was Volmer bei seinem kurzen Zwischenstopp auf dem Internationalen Flughafen von Johannesburg zu sagen hatte , hätte er vermutlich heftige Kritik geerntet . 
+So ausgeschlafen die nun klingen ( manchmal etwas zu ausgeschlafen , da bewegen sie sich gar nicht richtig vom Fleck und verharren in Schwermut , ist aber auch nicht schlecht ) , so bekannt manche Melodie , mancher Refrain ( tausendmal gehört , und tausendmal doch nicht rausgefunden ) , so hintergründig auch die lyrics , die Petters im Wechsel mit seiner Bassistin Marion Gerth singt : 
+Oder haben Sie schon mal von einem " somnambulen Tempo " gehört ? 
+Wir befinden uns auf einem Spielplatz und hören das herzzerreißende Weinen eines Fünfjährigen , um den herum lauter Fiesmoppels vom Typ " künftige Wehrmachtangehörige " stehen . 
+Und dieses 1697 geschriebene Kleinod gibt es heute abend um 19 Uhr in der Gutsscheune Varrel / Stuhr zu hören . 
+Während sich die Anklage gegen den Libanesen Eid allein darauf stützt , daß ein Sanitäter damals im Trubel der Rettungsarbeiten von ihm den Satz " wir warn -s " gehört haben will , hatten einzelne der Grevesmühlener die Tat immer wieder gestanden . 
+Am Himmel ist der Lärm der Nato-Kampfflugzeuge zu hören , die auf dem Weg nach Serbien sind . 
+Seit Kriegsbeginn kann man in allen serbischen Zeitungen das gleiche lesen , in allen elektronischen Medien dasselbe hören und sehen : Die üblichen Durchhalteparolen , scharfe Kritik an die Adresse der " verbrecherischen Nato " , die Zusicherungen , daß Jugoslawien für die Freiheit gegen den " amerikanischen Neonazismus " kämpfe , daß die Nato bald unter dem Druck der eigenen Öffentlichkeit auseinanderfalle und Rußland mit der Drohung eines Atomkriegs die " kriminellen Attacken " der Nato aufhalten würde . 
+Wer die Fernsehbilder von verstümmelten Menschen in Bosnien-Herzegowina gesehen hat , wer die Hetzreden der Führer der nationalistischen Milizen gehört hat , weiß , daß Hunderttausende wohlbegründet fürchten müssen , allein aufgrund ihrer Nationalität erschossen , vergewaltigt , geblendet oder kastriert zu werden - und so fliehen sie eben . 
+P'Bitek hat dies alles schon vor Jahren gesagt , aber keiner hat auf ihn gehört . 
+Täten die Schriftsteller es nicht , wer spräche sonst wohl von den ganz normalen Träumen , von den Träumen derer , die nicht einmal einen ruhigen Ort zum Schlafen haben , die kleinen Träume , Traumfragmente , zerbrochenen Träume - Träume , die verlorengehen , weil das Lied derer , die im Schatten der Macht singen , selten gehört wird . 
+Schon gehört von der Piazza Virtuale auf der Kasseler Documenta ? 
+Am Harriersand scheiden sich die Geister : Wer , sagen die einen , kann es an einem Ort aushalten , an dem man das Knacken der Geigerzähler des Atomkraftwerks Esenshamm zu hören meint ; an dem die Schmuddelsuppe der Unterweser ihre Salz- und Schwermetallfracht vorbeischiebt ; wo den ganzen Tag die Gebläse der gigantischen Silos der Braker Firma Gross dröhnen . 
+Hör mal . 
+Untersuchungen vor Ort können schnell und unkompliziert vonstatten gehen , die Streitparteien , regierungsunabhängige Organisationen ( NGOs ) und andere gesellschaftliche Organisationen müssen gehört , Experten können herangezogen werden . 
+" Auf den Aufschrei hören " 
+Denn höret , ihr weißweinsaufenden Krawattenträger , höret die Botschaft der pränuklearen Performancegruppen , die aus Kreuzberg und London , aus aller Welt sich auf dem Berliner Marx-Engels-Platz eingefunden haben : Das Theater ist tot . 
+Denn höret , ihr weißweinsaufenden Krawattenträger , höret die Botschaft der pränuklearen Performancegruppen , die aus Kreuzberg und London , aus aller Welt sich auf dem Berliner Marx-Engels-Platz eingefunden haben : Das Theater ist tot . 
+Auf jeden Fall ist niemand von den Betroffenen gehört worden - entgegen allen Zusagen und im Widerspruch zum Treuhand-Statut selbst . 
+Zum dritten Male findet am Samstag , 11. 7. , von 10 bis 20 Uhr auf dem Wittenbergplatz » La Strada « statt , ein Straßenmusikerfest mit Künstlern , die man sonst nicht zu sehen und zu hören bekommt . 
+Ein Bekannter vermutete letztens , als er gerade die neue Ringo-Starr-LP gehört hatte , daß man dem Berufs-Beatle im Studio bei der Aufnahme seiner Gesangsparts die Ohren zugehalten hat . 
+Sie spielen ihre Werke möglichst gereinigt von historisch späteren Eintrübungen und bringen den Zuhörern die Stücke so nahe , wie sie wohl zu Lebzeiten der Komponisten gehört worden sind . 
+Die Gründung der " Komitees für Gerechtigkeit " löst in Thüringen ganz unterschiedliche Gefühle aus , Ratlosigkeit und Gleichgültigkeit sind gleichermaßen groß : Einige wollen vom Diestel-Gysi-Projekt noch nichts gehört haben , manche haben Angst vor einem " erneuten großen Beschiß " , die meisten wittern jedoch alte Seilschaften 
+Bald darauf ist häufig die Flöte des Scherenschleifers zu hören , der auf einem alten Fahrrad daherkommt . 
+Freilich ist das kaum zu hören , denn die Autos sind in einen wahren Fahr- und Huprausch verfallen , der die Stadt mit Lärm und Gestank überdeckt . 
+Dennoch bekamen die Studentinnen von eben diesen Männern zu hören , Frauen vertrügen weniger Alkohol als Männer und könnnten daher schlechter Vertragsverhandlungen führen . 
+In diesem Fernsehen für jedermann , das im Rahmen der " documenta " von Kassel aus live von 3-Sat gesendet wird , weiß keiner genau , was und wen man auf dem Bildschirm sieht , hört oder liest . 
+Gehört : Little Village . 
+Noch einmal zu hören , wie Saiten-Legende Ry Cooder seine Gitarre zum Flennen bringt , dafür werden auch die Sprößlinge mit in den Stadtpark gezerrt . 
+Der britische Independent berichtet , Irving habe Anfang des Jahres " gehört , daß die gesamten Tagebücher auf Glasplatten im russischen Staatsarchiv in Moskau gespeichert " seien . 
+Dies hörten die TeilnehmerInnen der Tischrunde gewiß gern - müssen sie sich doch immer wieder mit dem ( von den USA ) angedrohten Ende der Handelspräferenzen für China herumplagen , das einschneidende Folgen auch für die Hongkonger Geschäftswelt nach sich ziehen würde . 
+Michael Löffler : Unter diesen Leuten , die " Metal " hören , gibt es einen etwa gleich großen Anteil - oder vielleicht doch einen etwas größeren Anteil - von Menschen rechter Gesinnung , wie es ihn auch unter Rap-Fans oder Fußballanhängern gibt . 
+Ich kann mich noch gut daran erinnern , daß in vielen besetzten Häusern Screwdriver gehört wurde . 
+Dieses im heutigen Männerjargon zu hören , ist nicht leicht . 
+» Wenn unsere Polizisten das Wort Asyl hören , schieben sie nicht ab . « 
+Nach den Hits der aktuellen CD packen Genesis ihren Bauchladen voll Erinnerungen aus , bis jeder sein Stück gehört hat . 
+Gehört : Screaming Jay Hawkins . 
+Die meisten Kabinettskollegen behaupten jetzt freilich , daß sie die Rede gar nicht gehört haben , wenn sie um Stellungnahme gebeten werden . 
+" Nie haben wir aus der Wohnung der Wendts mal Streit oder ein lautes Wort gehört . 
+Die haben Sachen gehört , die gar nicht beabsichtigt waren . 
+Die Kneipen befanden sich überwiegend in Schöneberg und Kreuzberg und hörten auf seltsame Namen wie " Meisengeige " , " Delirium " , " LSX im Hosianna " oder " Habakuks Gartenlaube " . 
+Die Ortsvereinsvorsitzenden saßen dabei und hörten es und verstanden : eine neuerliche Niederlage bei dem Versuch der politischen Karriere will sich der Professor , der seinen eigentlichen Beruf offenbar nicht mag , wohl ersparen . 
+Gehört : Fred Frith , Tom Cora und das Rova Saxophon Quartet . 
+Und so war es dann auch Bundespräsident Roman Herzog , der in seiner Laudatio die Worte fand , die man so gerne in der monatelangen Auseinandersetzung von Annemarie Schimmel gehört hätte : 
+Es wurde ganz still , um die vielen inhaltsfreien , aber schönen Worte fallen zu hören . 
+" Jemand , der das gehört hat " , sprach er streng zu den JournalistInnen , " soll aufstehen . " 
+Doch es sind auch Klagen zu hören , daß sich der Kandidat angesichts seines sicheren Wahlkreises ( hier lag die PDS bei den Bundestagswahlen acht Prozent vor den Sozialdemokraten ) nicht genügend im Wahlkampf engagiert . 
+Das paßt gut , und um seine Songs zu hören , muß man , wie es diese Musikentwicklung nahelegen könnte , nicht unbedingt ein gewisses Alter mitbringen . 
+Interessierte können dort eine nachgebaute Feuerstelle auch mit der Nase wahrnehmen , die Geräuschkulisse der Steppenlandschaft hören und am Feuerstein schlagen . 
+Wie habt ihr davon gehört ? 
+Rüdiger Lautmann wohnt nicht im Sendebereich , aber " ich lasse mir die Sendung regelmäßig aufnehmen und höre sie dann im Auto . " 
+Dies war wirkliche Triomusik , bei der jeder genau auf den anderen hörte , und aus der Reibung der verschiedenen Temperamente musikalische Funken schlugen . 
+Großväter , die an diesem Ort 1963 Martin Luther Kings Traum von einer integrierten Gesellschaft gehört hatten , reihen sich mit ihren Söhnen und Enkeln zum Gruppenfoto auf . 
+" Hör mal , Junge " , flötete ich also jüngst , " Mama und ich finden , du bist jetzt eigentlich schon zu groß für dieses Zimmerle . 
+Weil er gehört hatte , daß es in Hongkong Schokolade gebe , war es sein größter Traum , in diese paradiesische Stadt zu gelangen . 
+Wir wollen uns bilden , Bücher lesen , Musik hören ... 
+Besitzer eines Zusatzgerätes zum Autoradio können damit Radioprogramme störungsfrei und in CD-naher Klangqualität hören , künftig aber auch Daten über Staus , Wetterprognosen und andere Themen auf einem Bildschirm sichtbar machen . 
+" Jim Lovells " Huston , wir haben ein Problem " ist 50 Minuten nach dem Beginn des Films zu hören , und obwohl wir alle darauf gewartet habe , macht einen dieser Satz immer noch frösteln , genau wie die Geschichte der schicksalhaften Mission uns packen kann , obwohl wir alle wissen wie sie endet . 
+Gehört : Boss Hog . 
+Wenn der Antrag an den Innenausschuß zurückverwiesen wird , soll eine weitere Expertenkommission gehört werden , " und da kommt es ganz auf die Besetzung an " , welcher Lösung man mehrheitlich zugeneigt sei , so Statt-Sprecher Achim Reichert . 
+Gehört : Epic Soundtracks . 
+" Als ich in den siebziger Jahren studierte " , berichtet eine , " da sahen alle , daß sie um sechs Uhr abends zu Hause waren , um den SFBeat zu hören . " 
+Ihr fehle die menschliche Wärme hier , klagt D. , während U. ergänzt , sie habe gehört , es gebe etwas zu essen . 
+Sie packt zu , umschlingt dich , hält dich fester als deine große Liebe , und du bekommst den Vorzug , deine Knochen brechen zu hören , bevor ihr Druck die Adern explodieren läßt . 
+Gehört : Little Richard / Chuck Berry 
+Gehört : Little Richard / Chuck Berry . 
+God gab es damals schon einige Jahre , danach hat man eigentlich nichts mehr von ihnen gehört . 
+Das zu hören , dürfte auch enttäuschend für den Berliner Mitarbeiter der umstrittenen Firma sein . 
+Weswegen es beim " Festival traditioneller Musik " aus Trinidad eben Calypso zu hören gibt und nicht dessen kommerziellen Nachfolger Soca ; aus Jamaika die Reggae-Vorform Mento und aus der Dominikanischen Republik anstatt des sattsam bekannten Merengue-Beats perkussive Trance-Zeremonien der afro-dominikanischen Bruderschaften , aufgeführt vom illustren All-Star-Ensemble " Islas Crusis " , dessen Mitglieder überwiegend von der zweitgrößten Karibikinsel stammen , zum Teil aber auch in New York leben . 
+Sie haben eine dada-Kinder-Spezialsprache , hören " Ludwig van " ( Beethoven ) und sind wahnsinnig cool . 
+Wer das Werk gehört hat , muß zugeben : Es ist wahr . 
+Wer jemals etwas von Oscar Wilde gehört hatte , wußte genau , was in der nächsten Szene passieren würde . 
+Hätte Serbien vor sieben Jahren auf die " mahnenden Worte " des " begnadeten , göttlichen " Dichters gehört , wäre es nie zu einem Krieg gekommen . 
+Aufgrund der neuen jetzt vorliegenden Informationen hat die AL in dem seit Mitte Dezember tagenden Parlamentarischen Untersuchungsausschuß zu den Skandalen des Verfassungsschutzes einen Beweisantrag eingebracht , aufgrund dessen in einer der nächsten Sitzungen die beiden Ex-Senatoren Ulrich und Lummer zum Thema taz versus VS gehört werden sollen . 
+Nach einer Infratest-Unterschung ( Sept. 88 ) hörten 1987 über 60 % der 14 - 29-Jährigen im Sendegebiet ffn , gegenüber 40 % RB ( 35 % hörten die Hansawelle , auf der Rizz gesendet wurde , 8,8 % hörten RB 4 ) . 
+Feministische Wissenschaft besteht auf einer einfachen Wahrheit , die kaum ein Mann ertragen kann und hören will und die in der erwähnten ehrwürdigen Behauptung , die Martin Heidegger in goldenen Buchstaben anbringen ließ , mit Sicherheit nicht gemeint war , nämlich der , daß Aufschlüsse über die Welt und Einsichten in sinnvolle , gerechte und nicht schädigende Lebensmöglichkeiten ihrer Bewohner niemals allein erarbeitet und erdacht werden können aus der Perspektive eines Geschlechts , das seit Jahrtausenden die Macht über Hirne und Körper anderer , die Macht über Wissen und Entscheidungen , Urteile und Vorurteile in Händen hält , ohne zu erfahren oder zur Kenntnis zu nehmen , wie es sich auf der anderen Seite lebt . 
+Um die beiden Beschuldigten freizusprechen , brauchte die 5. Große Strafkammer 85 Zeugen , die an insgesamt 31 Verhandlungstagen gehört worden waren . 
+Dieser Doc ist auch ein recht seltsamer Zeitgenosse , von Schweigepflicht scheint er überhaupt noch nichts gehört zu haben . 
+Die einzige Tonaufzeichnug von Lubitsch in deutscher Sprache , aus einem Interview des Jahres 1932 ist vor dem Film zu hören und diese gesprochenen Sätze wirken viel vergangener , historischer als der Film selber . 
+Als " mehr als bemerkenswert " bewertet es Kooijmans , daß " angesichts dieser eingegangenen starken Verpflichtungen weiter ununterbrochen Berichte über Folter zu hören sind " . 
+Wir werden , denke ich , längerfristig , auch die Frage stellen und lösen müssen , wie im park&ride von der Stadtgrenze her die Straßenbahn den Leuten attraktiver erscheint , als bei Wärme in ihrem im Auto installierten Sofa zu sitzen , Musik zu hören und lieber im Stau stehen zu bleiben . 
+Es war an einem dieser verspielten Abende am Ende eines Arbeitstages , die Mädchen waren allein mit ihren Eunuchen und ihrem Wein , als Baal die Jüngste über ihren Kunden , den Lebensmittelhändler Musa , sprechen hörte . 
+Viele Israelis sagen : Okay , Arafat mag seine Leute unter Kontrolle haben , was ist aber mit den Gruppen , die er nicht kontrollieren kann , die nicht auf ihn hören ? 
+Man wird nicht gehört . 
+Viele junge Leute , die sehr radikal für den bewaffneten Kampf eingetreten sind , ändern ihre Meinung , wenn sie einen meiner Vorträge über den gewaltlosen Weg gehört haben . 
+Ich bin fremd , doppelt fremd : einer , der erst hier hergekommen ist , und einer , der aus einer Welt berichtet , die hier unbekannt ist oder von der man auch nicht gerne hört . 
+16 Zeugen sind vor der Strafkammer gehört worden . 
+Als der Erhalt von Cafe und Whiskey einen Moment Geduld erfordert , bekommen die Leute hinter dem Tresen dafür um so schneller zynische und aggressive Bemerkungen zu hören , die die traditionelle Rollenverteilung zwischen Afrika und Europa klarstellen : Wir haben das Geld , wissen wie es gemacht wird , erklären es " geduldig " unseren " Partnern " , und geht dann wieder alles daneben mit der Entwicklung , kommen zuerst die ironischen Bemerkungen , und dann geht es auf unterstes Stammtischniveau : 
+Denn bislang war allerorten zu hören , daß die als Verein organisierten VGs große Angst davor hatten , von den Profis aus den Verlagshäusern mit Knebelverträgen kurz vor Ablauf der Bewerbungsfristen um die lokale Sendelizenz erpreßt zu werden . 
+Später sagte er vor Journalisten , er habe von den Aktionären " keine produktiven Vorschläge gehört " . 
+" Das Wort Umweltschutz ist auf dieser Aktionärsversammlung häufiger gefallen , als einige Aufsichtsräte es in ihrem ganzen Leben gehört haben . 
+" Ich verstand nichts von den Gesetzen und hörte nicht auf meine Eltern . " 
+In Deutschland nimmt man noch lange Wege auf sich , wenn es darum geht , ein Bild anzuschauen oder ein Quartett zu hören . " 
+Ob Kerr noch etwas eingefallen wäre , wenn er 1942 im Londoner Exil von Cocteaus politischer Naivität gehört hätte ? 
+Sie hatten ihre Eltern von der Monarchie sprechen hören und den damit verbundenen Leistungen , so haben sie auch von mir gehört . 
+Sie hatten ihre Eltern von der Monarchie sprechen hören und den damit verbundenen Leistungen , so haben sie auch von mir gehört . 
+Fast vier Monate hat dieser Prozeß vor dem 5. Strafsenat , der Staatsschutzkammer des Düsseldorfer Oberlandesgerichts , nun gedauert , an 25 Prozeßtagen wurden mehr als 40 ZeugInnen gehört , stundenlang wurden Erklärungen und Schriften der RZ , zurückreichend bis zum Anfang der siebziger Jahre , vorgelesen , etliche Urteile gegen vermeintliche RZ-Mitglieder oder Unterstützer , außerdem seitenweise Artikel , die Ingrid Strobl im Laufe ihrer journalistischen Tätigkeit , darunter acht Jahre als Redakteurin bei ' Emma ` , verfaßt hat . 
+Wenn er in die DDR oder in die Bundesrepublik reist und die ersten deutschen Sätze hört , fährt ihm noch immer der Schreck in die Glieder . 
+Dinge , die man nicht anfassen , riechen , hören oder sehen kann , von denen man aber weiß , daß sie existieren . 
+Der Musiker Johnson , so viel war auch schon auf den ersten drei Alben zu hören , ist sich nicht nur der kompositorischen Qualität seiner Stücke bewußt . 
+Die Ausstellung " Malerinnen in der Hör Zu unterrepräsentiert " ist im Oberstufenzentrum Bürowirtschaft , Lippstädter Straße 9 - 11 , 1 - 45 , bis zum 18. Juli , mo - fr 8 - 17 Uhr zu sehen . 
+Am Ende , als er Bunny gefunden hat , spricht er die beruhigendsten Worte , die ich je im Kino gehört habe : 
+Man kann also weder miteinander reden , noch tanzen , im Grunde genommen nur : trinken , Musik hören , zwischendurch mal auf Toilette gehen . 
+" Wenn es jede Nacht brennen muß , damit wir gehört werden , dann wird es brennen . " 
+
+Lemma: hören, total: 353, w/ subj-dep: 229
+
+#Sentences w/o subj-dep to lemma (werfen) :
+225 Millionen Mark muß der Staat Tag für Tag für seine Schulden an Zinsen zahlen , den Couponschneidern sozusagen in den Rachen werfen , statt das Geld für Sinnvolleres auszugeben . 
+Da nimmt man dann einen Bindfaden , bindet ihn um den Zahn , zieht kurz und wirft den Milchzahn übers Dach . 
+Kurz vor Ende der revolutionären Demonstration knüppelte die Polizei in die Menge , während Steine und Glasflaschen in Richtung der BeamtInnen geworfen wurden . 
+Hier wird kein Publikum dazu aufgefordert , den Vortragenden eine Bierflasche gegen die Stirn zu werfen , nur weil ein Text nicht so recht gefallen mag . 
+Es würden Steine geworfen , die Wellen verursachen , würde dann eine Blase erscheinen , pieksten gewisse Leute hinein . 
+Schreiend stürzten sie sich auf die Rechtsanwälte in ihren Roben , warfen mit Geld nach ihnen , mit Gläsern , Schlüsseln , mit allem , was zur Hand war . 
+Fast alle der Tracks auf der Zusammenstellung " Superrappin " hören sich an , als würden A Tribe Called Quest und Gang Starr als Überväter Ideen von den Wolken werfen , wenn einer der Produzenten in einer Pause vor seinem Studio was raucht : langsame und feingeschnittene Beats , minimalistisch arrangiert , und hier und da ein paar Jazzeinsprengsel . 
+" Ohne sie gesehen zu haben ? " , kontert der Popstar und wirft einen verschmitzten Blick nach rechts . 
+Insgesamt war Schluß mit der Deeskalation , so die Polizei , als gegen halb neun Steine , Flaschen und Feuerwerkskörper aus der Demonstration auf die Beamten geworfen wurden . 
+Auf ein Polizeifahrzeug wurden daraufhin eine Handvoll Flaschen geworfen . 
+Gegenstände auf die Polizei zu werfen , das ist an diesem Abend eine Art Massensport . 
+24 Kameras verteilt an 24 verschiedenen Zeitzonen der Erde sollen die Schrittgeschwindigkeit von Fußgängern aufnehmen und per Internet live auf eine begehbare Trommel-Leinwand werfen . 
+Zwei weitere prominente Bewerber , Gerard Mortier aus Salzburg und Pamela Rosenberg aus Stuttgart , hatten das Handtuch geworfen , weil der Senator an Thielemann festhielt . 
+Die " Jocks " haben mit Cola-Büchsen und Steinen nach der " Trench Coat Mafia " geworfen , wie sie die Clique nannten , zu der die beiden Schützen sich rechneten . 
+Der Wahlkampf fängt an diesem Abend nicht gut an für Val Feld : Als sie ihre Broschüre durch den Briefschlitz geworfen hat , hört man , wie ein Hund sich über das Papier hermacht und es zerfetzt . 
+In der Hamburger Hochburg des Poetry-Slam ( sinngemäß : Gedichte werfen ) sind Buhen , Zwischenrufe und klatschen während der Veranstaltung Pflicht . 
+Den Vorwurf , daß Teile der Grünen ihre pazifistischen Überzeugungen über Bord geworfen hätten , wies er zurück . 
+Wer Bunker baut , wirft auch Bomben ! 
+Mutter , Vater und in der Mitte ein Kind - eine Kleinfamilie beim Bummel ; drei junge Männer in Anzügen , die Jacken lässig über die Schulter geworfen , flanierende Yuppies ; zwei junge Frauen in Sommerkleidern , jede eine Halbliter-Bierflasche in der Hand . 
+" Nach Gebrauch bitte nicht aus dem Fenster werfen , sondern auf den Boden stellen . " 
+Eric Lobron hat gerade Sokolows Teamkameraden Pedrag Nikolic aus dem Rennen geworfen . 
+Die Sendung mutete sich als eine hysterische Stimmungsmache an , in der sich Frau Roggendorf im Vorfeld der ganzen Affäre verbal zu verteidigen suchte und die Lesben / Frauen gleich mit Buttersäure um sich warfen , um ihr Dasein als " kleine radikale Minderheit " unter Beweis zu stellen . 
+Er liegt mitten auf der Straße , auf dem Rücken , die Arme weit von sich geworfen . 
+Aber auch Jörn Merkert , Leiter der glücklosen Institution im prächtigen Haus , wäre gut beraten , gelegentlich jemand einen Blick auf seine Texte werfen zu lassen . 
+" Unser Vorteil gegenüber den privaten Konkurrenten ist das riesige Korrespondentenetz , und den werden wir voll in die Waagschale werfen . " 
+Nach dem zweiten Mord flüchtete Ralf W. nach Oldenburg und warf den blutverschmierten Schonbezug des Beifahrersitzes in eine Mülltonne . 
+Der Ortsamtsleiter war zudem höchst verärgert : Als er im vergangenen Jahr sein Auge auf dieses Gebäude Osterdeich 17 geworfen hatte , damit die Frauen-Gleichstellungsstelle und das " Haus der Familie " aus den Schulräumen Schmidtstraße ausziehen können , daß hieß es : Die Renovierung der Villa wäre zu teuer , sie soll verkauft werden . 
+Noch gut erinnert man sich an die bewegten Tage des Januar 1993 , als der mit 85.000 Tonnen beladene Tanker " Braer " an die Küste der Shetland-Inseln geworfen wurde . 
+Im Moskauer " Haus des Journalisten " zeigte man im Beisein eines FSB-Vertreters einen Film über die Dichterin als Dealerin , den der Generaldirektor des russischen Fernsehens wegen tendenziöser Berichterstattung aus dem Programm geworfen hatte . 
+Andere werden verärgert den Kopf schütteln , wollten sie doch bloß Weichspüler holen und nicht mit Zeilen wie " Wer zuzahlt , dem glüht noch das Biwakfeuer des Herbstes " aus der Bahn geworfen werden . 
+" Ihr könnt 's des Haus doch gar nimmer mehr in Stand halten " , meint jetzt Martin und wirft einen deutlichen Blick auf Vaters Krückstock . 
+Sie stehen im Verdacht , in der Nacht zum Sonnabend einen Molotowcocktail auf die Unterkunft geworfen zu haben . 
+Neben der Projektion auf das Südafrika-Haus gab es auf demselben Platz eine weitere , von der Kunsthalle ICA finanzierte Projektion , die gegen die Nelson-Säule geworfen wurde . 
+Der Stoff war gleichzeitig gewickelt und drapiert , so daß er vorne an einer Stelle wie das Oberteil in kleine Längsfalten fiel , an den Seiten aber schwere Querfalten warf und über dem Hintern auf einem kurzen Steg aus brettsteifem Organza aufgetürmt lag . 
+Weil der Süden sich nicht beugt , wirft das Regime seine letzten Reserven ins Feld : sogenannte Volksmilizen , die zu großen Teilen aus Frauen bestehen . 
+Und dann appliziert er riesige Blumen auf Pullover und Jackenärmel und wirft anschließend noch ein Pfund Glitzer darüber . 
+Seit Montag ist es damit vorbei : Bet bekam einen Wutanfall , weil ihre Stieftochter ihr nicht 66.000 Pfund für den Kauf des Rovers Return leihen wollte , warf sämtliche Trinker aus dem Laden , leerte den Aschenbecher ein letztes Mal , obwohl seit Jahren niemand in der Serie raucht , und rief sich ein Taxi . 
+Es wurde palavert , mit Worthülsen um sich geworfen und die Vereinnahmung des DGB-Chefs Dieter Schulte zelebriert . 
+Wer aus dem Schuldienst geworfen worden war , hatte Chancen auf Rückkehr . 
+Nach eigenen Angaben gegenüber der taz habe niemand von ihnen etwas aus dem Fenster geworfen . 
+Nachdem sie den Buffalo Bills am letzten Samstag die erste Heimniederlage in einem Play-off-Match zugefügt hatten und das Team aus dem Rennen um die Super Bowl warfen , gewannen die Jaguars jetzt bei den hochfavorisierten Denver Broncos mit 30:27 . 
+Dem Volk was zum Schmunzeln vor die Augen werfen und bloß nicht die optimistische Stimmung der New Deal-Zeit beeinträchtigen . 
+Als K. ihnen den Zutritt verwehrte , sollen die Beamten ihn geschlagen und getreten haben , ihn gefesselt in einen Polizeitransporter geworfen und auf dem Weg zur Wache beschimpft haben . 
+Bis auf den Tag , an dem er uns erzählte , wie Kinder einen Stein von einer Autobahnbrücke in die Windschutzscheibe eines fahrenden Wagens geworfen hatten . 
+Sie trugen T-Shirts mit der Aufschrift " I love you ! " und warfen allerlei Kuschelgetier gegen die Fenster des Nachbarzimmers . 
+Es gab Sperren für Spieler , die mit der Polizei in Konflikt kamen , Charles Barkley wurde zum ständigen Mitführen eines Bodyguards verdonnert , nachdem er einen frechen Jüngling durch ein Barfenster geworfen hatte , Torontos Coach bekam eine Geldstrafe , weil er einem betrunkenen Zuschauer den Effenberg-Finger zeigte , und am kuriosesten äußerte sich die Ordnungswut der NBA im " Hosenkrieg " : Junge Spieler von Portland , Philadelphia und Minnesota mußten zahlen , weil ihre Sporthosen zu lang waren . 
+Das eingespielte Team holt zwar trotzdem Gold , aber als Esser nach der Siegerehrung , wie es so Brauch ist bei den Ruderern , kollektiv ins Wasser geworfen wird , taucht er vor Scham nie mehr auf . 
+Nach einer angemeldeten "Silvestergruß"-Demonstration kam es in Moabit und Plötzensee zu Auseinandersetzungen zwischen einer Gruppe von 200 Demonstranten und der Polizei , bei der angeblich Feuerwerkskörper auf die Polizisten geworfen wurden . 
+Von der ursprünglichen 107-Gesellschaft ist nur noch ein kleiner Rest übrig geblieben : Nachdem mit Stadtmagazin-Herausgeber Klaus Heidorn bereits im Dezember ein Gesellschafter ausgestiegen war , warfen Anfang dieses Jahres nun auch zwei Tochterfirmen der Medienkonzerne Holtzbrinck und Bertelsmann das Handtuch , sie zogen ihre Beteiligung zurück . 
+Der erste Geiger zieht sich plötzlich einen schwarzen Lederhandschuh an die linke Hand und wirft seinen Kollegen an der zweiten Geige ( David Albermann ) ein Tuch aufs Griffbrett , während schließlich der Bratschist ( Levine Andrade ) mit seinem Bogen beginnt , den Cellisten anzufechten . 
+Die Intifada ist nicht nur ein Aufstand gegen die Besatzung , ist nicht nur Demonstrieren und Steine werfen . 
+" Die Verhandlungskommission muß sofort zu unseren ursprünglichen Forderungen zurückkehren und aufhören , Nebelbomben in die Streikfront zu werfen . " 
+Tibetische Kommunisten wurden jetzt unter Hausarrest gestellt oder ins Gefängnis geworfen . 
+Lange war darüber spekuliert worden , ob Pluto nicht ein " entlaufener " Neptunmond sein könnte , der durch ein nahe Passage des Neptun-Mondes Triton aus der Bahn geworfen wurde - oder gar durch eine Kollision , bei der auch Charon entstanden sein könnte . 
+Zwischen den Parforce-Jagden lächelt sie , schnappt eifrig nach Luft und wirft sehnsüchtige Blicke auf den Nebenplatz , wo die Französin Demongeot mit ihrem Coach ein gemütliches Training absolviert . 
+Nun hat der " Speaker " das Handtuch geworfen . 
+Der Schnellste muß noch werfen lernen 
+Die Polizei mußte oft in Deckung gehen , weil Flaschen und Bierdosen in ihre Richtung geworfen wurden . 
+So wurde ein Grüppchen Vermummter regelrecht " entwaffnet " und die ihnen abgenommenen Steine und Knüppel kurzerhand über die Absperrung geworfen . 
+Sein Spielzeug vom Sonntag , das er im Übermut in die Menschenmenge geworfen habe , sei wirklich weg , halt nunmehr " vom Winde verweht " . 
+Das Mobiliar eher zusammen- denn ausgesucht , schwankend zwischen der Inneneinrichtung einer Wohnstube , die vom Proletariat auf den Sperrmüll geworfen wurde , und der lichten , gaulloise-gestützten-savoir-vivre-Atmosphäre , die vom Urlaub in Arcachon in die Heimat hinübergerettet wurde in Form von französischsprachigen Plakaten , Cafe au lait und Jacques Brel , obwohl der ja eigentlich aus Flandern kommt . 
+Unterhalb des Musikgetöses werden biographische Fetzen in den Raum geworfen , die vom anderen zusammengenäht werden müssen - das ergibt die Narben , die ein Leben hinterläßt und die sich langsam ins Gesicht hineinzeichnen . 
+Für uns war das voll in Ordnung , da wir seit Monaten in Berlin von einem dröhnenden Bagger aus den Federn geworfen werden , der unsere Straße aufreißt . 
+Laßt euer Schwert nicht kalt werden von Blut ; schmiedet Pinkepank auf dem Ambos Nimrod ; werft ihm den Turm zu Boden ! 
+Festgenommen wurden sie am 23. Mai , nachdem sie Farbbeutel auf das Porträt Maos geworfen hatten , das sich über dem Haupteingang der verbotenen Stadt im Norden des Tiananmen Platzes befindet . 
+
+Lemma: werfen, total: 151, w/ subj-dep: 86
+
+#Sentences w/o subj-dep to lemma (singen) :
+" Wir lesen Texte , singen Songs und spielen Szenen , " mischt sich Bov Bjerg ein . 
+Berlin voll spießiger Tunten - betr. : " Two cheep hot girls singen Blues " , taz vom 15. 4. 99 
+" Da während der Aufführung sehr viel gesungen und gesprochen wird , bitten wir Sie , das Rauchen einzustellen . 
+Sie stammt aus Burundi und singt , wenn sie nicht gerade " Sailing " covert , in Swahili und Kirundi . 
+Als sich schließlich kurz nach Mitternacht jemand ans Klavier setzt , das Gläserklirren und Kneipengeschrei kaum übertönen kann und eine Stimme vom Meer zu singen beginnt , schleicht sich ein winziger Verzweiflungston in die Lustigkeit . 
+katjuschahimmel singt , 
+Und zwar singen . 
+Wenige Meter entfernt : Summen und Hüsteln - aus dem ganzen Land sind Chöre zum Wettstreit herbeigeeilt , die "Lindenstraße"-Titelmelodie zu singen . 
+" It's so fucking easy " , sangen die erstaunten Fans der Gäste in der zweiten Halbzeit zur Melodie von " Guantanamera " , während sich die deutsche Mannschaft " Werder , Werder " - Rufe der Bremer Zuschauer anhören mußte . 
+Man engagierte sich bei Warchild , sang mit Pavarotti für Sarajevo , schrie mit dem Stück " Bosnia " gegen den Irrsinn des Krieges an . 
+So ausgeschlafen die nun klingen ( manchmal etwas zu ausgeschlafen , da bewegen sie sich gar nicht richtig vom Fleck und verharren in Schwermut , ist aber auch nicht schlecht ) , so bekannt manche Melodie , mancher Refrain ( tausendmal gehört , und tausendmal doch nicht rausgefunden ) , so hintergründig auch die lyrics , die Petters im Wechsel mit seiner Bassistin Marion Gerth singt : 
+Und als der Krieg schon im ersten Lenz / keine Aussicht auf Frieden bot / zog der Soldat seine Konsequenz / und starb den Heldentod / Holladihiha , holladiho / Die Witwen sind lustig / Die Bestatter sind froh / ( Lied , bei Frostwetter im Mai hinter dem Ofen zu singen und dabei den armen schwarzen Kater Bertold zu kraulen ) . 
+Plötzlich sangen und tranken und tanzten nicht nur die Schottenröcke . 
+Die "fresh-fantasy"-Leute suchen Kinder , die für eine Anti-Drogen-Platte samt Video hip-hop tanzen und singen . 
+Mit großen Gesten schwingt die stolze Tänzerin ihren Fächer , ein Gitarrist singt : Ay ! Ay ! Ay ! 
+Künstler aus aller Herren Länder werden singen , tanzen , Pantomime zeigen . 
+An verschiedenen Orten der Stadt knäulen sich am Wochenende um diese Zeit Tausende Jugendliche , singen , gackern , prahlen . 
+Gesungen , geliebt , gelitten wurde an den von Puccini bezeichneten Originalschauplätzen , die von Akt zu Akt wechseln ; 
+Ein Sieg nämlich brächte ihm kaum die erhofften Werbegelder , die er - 1zusammen mit dem früheren DDR-Schwimmer Jens-Peter Berndt - nach den Olympischen Spielen 1988 in Seoul einnehmen wollte : Damals sangen Pfeiffer und Berndt unter dem Namen " The Poolboys " eine Platte , die die meisten Tonträgerverkäufer , gnädiglich gestimmt , unter den Tresen versteckten . 
+Obwohl er sich immer noch ähnlich lustig ungelenk bewegt , weder besonders gut trommeln noch singen kann , hat er als Performer der Demontage seines eigenen Denkmals immer noch eine Reichweite bis ins Herz seiner mit ihm älter gewordenen Fans . 
+Sie lassen sie allenfalls für sich laufen , singen , spielen und tanzen . 
+Für La Toyahs Auftritt gibt es Szenenapplaus , obwohl sie nicht einmal gesungen hat , sondern nur eine halbe Stunde lang auf einem flachen Plastikkasten Aerobic-gewandert ist . 
+Dort wird spätabends die Bühne für die Schauspielerin Barbara Nüsse freigeräumt , die aus des armen BBs Hauspostille lesen und singen wird , als der Klassiker der Vernunft noch ganz unvernünftig war . 
+Wenn die Onkelz mehrfach von " den Lügen der Regierung " singen , meinen sie immer auch die Lügen der Alt-68er , der Elterngeneration . 
+In einem Gespräch distanzierte sich Weidner noch einmal ausdrücklich von dem vorige Woche verurteilten Attentäter von Solingen , Felix K. , der " mit Inbrunst das rassistische Türkenlied zu singen " pflegte ( taz vom 14. / 15. 10. 1995 ) : 
+Allerlei Manifeste wurden lanciert , in denen gegen den Feminismus gewettert , das Hohelied des Nationalstolzes gesungen und eine härtere Gangart in der Innenpolitik gefordert wurden . 
+Gesungen wurde auch viel . 
+Menschen verweilen stumm , singen Lieder , vollziehen merkwürdige , langsame Rituale oder schlummern sanft dahin . 
+Ein Hauch von PJ Harvey weht durch den Raum , wenn Rebecca Moore , die mit der New Yorker Knitting Factory assoziiert ist , an ihren Fender greift und ihre balladesken Nachtmahren singt , um diese dann atonal zu verfransen . 
+Demnächst wird er in einem Film über die New Yorker Kunstszene Warhol spielen - weil er 1970 " Andy Warhol " gesungen hatte . 
+Bowie , der selbst zu " Ziggy Stardust " - Zeiten ein Model für vermischte Geschlechterrollen hergab , irrt durch seine neuen Songs und singt in " Hello Spaceboy " davon , wie viel Mühe es ihm macht , Jungs und Mädels auseinanderzuhalten : 
+Das klingt hymnisch wie " Heroes " , voller Inbrunst gesungen und zu versöhnlich , selbst für ein melancholisches Happy-End . 
+Dann stehen die Männer hübsch im Halbkreis mit ihren Trommeln aufgereiht und singen charmant im Chor , während die Damen schwungvoll über den Boden walzen . 
+So legen auch Los Munequitos De Mantanzas Wert darauf , einen Teil ihres Programms in der Yoruba-Sprache zu singen . 
+" Viel zu bombastisch und schwerfällig " , urteilten die Kritiker über die Produktion des ehemaligen Monty Python-Komikers , um im gleichen Atemzug eine Lobeshymne auf den alten UFA-Film mit Hans Albers zu singen - der , mit Verlaub gesagt , das Verdikt der Phantasieloisgkeit erheblich eher verdient hätte . 
+Die würden immer so komische Sachen machen , wie aus einem Buch vorlesen oder ein Lied singen zu Anfang der Verhandlungen , aber es sei auch viel von deren Ernsthaftigkeit zu spüren gewesen . 
+Auf dem Exerzierplatz davor haben rund 300 Gestalten in Tarnuniformen in Kompanieformation Aufstellung genommen , laufen auf der Stelle , hüpfen , brüllen und singen auf Befehl . 
+Am Ende des Monats steht dann nochmal sehr Gegensätzliches zur Auswahl : während Helmut Debus seine plattdeutschen Lieder singt ( 31. 3. , Begegnungsstätte Schwanewede ) , führt die " Association Gomina " ihre argentinische Tango-Show Como un Tango auf - ein empfehlenswertes Spektakel mit Tanz , Musik und Gesang ( 31. 3. , Pumpwerk WHV ) . 
+Ein Haufen nostalgischer Nationalstaaten , in denen alte Männer alte Fahnen küssen und alte Hymnen singen , hat keine langfristige Überlebenschance . 
+Die amerikanischen Schwarzen haben eine Art zu singen , die voller Kraft und Seele ist . 
+Ich nehme das Mikrophon und singe . 
+Das Lied wird zweimal verbogen werden : nach Kriegsbeginn muß - dem Sprachrhythmus zum Trotze - " Leb wohl , Peter " gesungen werden , und nachdem dann glücklich alles zu Kleinholz geworden , borgt sich Hanns Eisler die ersten RefrainTakte für " Auferstanden aus Ruinen " , die Nationalhymne der DDR . 
+Plausibler wird das Bühnengeschehen übrigens dadurch , daß man Rezitative ins Deutsche übersetzte und nur die Arien ( mit wenigen Ausnahmen ) italienisch singt . 
+Am Ende singen alle : 
+Aber ich habe z.B. einmal während einer Nachrichtensendung aus einer der schwarzen Townships in Südafrika gesehen , wie Schwarze dort - ein , zwei Jahre , nachdem Jerry Dammers und Special AKA den Song aufgenommen hatten - ihn als Kampflied bei einer Demonstration gesungen haben , was zeigt , daß der Song die richtige Wirkung hatte . 
+" Wir wol-len wiiee die Wol-ken sein ... Eu-roo-paa braucht frischen Wind , Iiideen , die für mooor-gen sind ( u-hu-hu ) Wir sind Eu-roo-paa ... " , so singen die 15 flotten Jungs und Mädels , während sie sich von Wind und Wolken umweht auf grüner Wiese im Rhythmus der Musik wiegen . 
+Dort führte er noch vor Luther die ersten liturgischen Reformen durch : Er las die Messe , sang und predigte auf deutsch . 
+
+Lemma: singen, total: 110, w/ subj-dep: 63
+
+#Sentences w/o subj-dep to lemma (verlassen) :
+Melchior , der dänischer Staatsbürger war , hatte 1938 das Gut erworben , aber während der Nazi-Zeit Deutschland verlassen . 
+Aber sie tauchen bei jedem neuen Album wieder auf : als Freundin , die wahlweise begehrt , anhimmelt , verläßt , wenn ihr Typ zuviel fremdgeht , oder verlassen wird , wenn sie nervt . 
+Aber sie tauchen bei jedem neuen Album wieder auf : als Freundin , die wahlweise begehrt , anhimmelt , verläßt , wenn ihr Typ zuviel fremdgeht , oder verlassen wird , wenn sie nervt . 
+In den Jahren seit Beginn des Krieges in Ex-Jugoslawien hatte etwa ein Fünftel der kosovo-albanischen Bevölkerung die Region verlassen . 
+Beide bestätigten , daß der Angeklagte nach den Schüssen israelischer Wachsoldaten in Panik das Konsulatsgelände über den Zaun verlassen habe und sich sofort auf den Boden legte , als Polizeibeamte auf ihn zukamen . 
+Spätestens seit John Lennon die Beatles verließ , weiß die ganze Welt , daß Bandsplits oft mit viel Herzschmerz verbunden sind . 
+Bis jetzt haben schon jeden Morgen Dutzende von Bussen Kuke in Richtung Süden oder Küste verlassen . 
+Als ich Belgrad vor acht Jahren verlassen habe , hieß das gesamte Land noch Jugoslawien . 
+taz : Herr Schönberg , warum haben Sie die SPD verlassen ? 
+Daß trotz neuer Wohnflächen weiterhin mehr Bremer ab- als zuwandern , liege zudem schlicht " an der Statistik , die auch viele Asylbewerber ausweist , die uns verlassen " . 
+So weit , daß es meiner Ansicht nach keine andere Alternative gab , als uns vorläufig wieder auf die Bühne zurückzuziehen , wenn wir weiterhin Theater machen wollten , oder das Theater wirklich zu verlassen . 
+Schlingensief aber verließ seine " Berliner Republik " , reiste mit seinen beiden Hauptdarstellern in die reale Welt nach Makedonien und wurde nach seiner Rückkehr auf einer Unterschriftenliste als potentieller Zerstörer des Theaters abgelehnt , hauptsächlich von den nichtkünstlerischen Mitarbeitern . 
+Als der Krieg begann und die ersten Kosovo-Albaner zu Hunderten ihre Häuser verließen , hieß es im Fernsehen häufig , unter den Flüchtenden befänden sich ausschließlich alte Menschen , Frauen und Kinder . 
+Er habe vorgehabt , den Druck auf die Kosovo-Albaner zu erhöhen , bis diese den nördlichen Teil der Provinz aus eigenen Stücken verließen und die derzeitige serbische Minderheit dort die Mehrheit der Bevölkerung stellen würde . 
+Ist frau indes mehr auf Sicherheit bedacht , sollte man eher eine Auswahl treffen nach dem Kriterium " Wer hat wen verlassen ? " . 
+Vor ungefähr fünf Jahren verließ eine meiner Schülerinnen mitten im Schuljahr die Klasse . 
+Als es wirklich ernst wurde und ein neues Konfliktmanagement möglicherweise auch westliche Interessen beeinträchtigt hätte , machte die Vormacht USA klar , daß sie ein internationales Krisenmanagement nicht akzeptiert , sondern sich als Ultima ratio nur auf ihre Waffen verläßt . 
+Doch wird der Pöbel in seiner Behauptung nunmehr dadurch bestätigt , daß jetzt ein kleines blondes Mädchen die Schaukel verläßt , ihn an der Hand faßt und schlicht aber bestimmt erklärt : 
+" Scheiße ! " , murmelte ein serbischer Journalist und verließ demonstrativ den Raum . 
+Dieses gab ihr recht und verurteilte die wilde Mieterin dazu , die Wohnung zu verlassen . 
+" Sie müssen von allen guten Geistern verlassen sein , vor Gericht so aufzutauchen " , fuhr der Richter den kurzgeschorenen Blonden in Kampfhosen und Springerstiefeln an . 
+Große Teile des Heimes sind verlassen . 
+Auch erklärten sich die beiden in Unkenntnis der Verhältnisse bereit , mit dem Verlag binnen sechs Monaten das Haus in der Glinkastraße zu verlassen , während allen anderen Interessenten noch langfristige Mietverträge zugesagt worden waren . 
+Daß sich die Junkies dann tatsächlich in die S-Bahnen setzen und Frankfurt verlassen , glauben weder Streetworker noch Jugendpolitiker . 
+Als den Nazis die Macht übergeben wurde , war Alisa vierzehn , verließ die Schule , schloß sich der zionistischen Jugendbewegung an und begann eine Malerlehre . 
+Die Koalition mit Meretz und Shass , auf die sich Rabin statt dessen verlassen hat , soll ein späteres Einschwenken der rechten Tsomet und der Nationalreligiösen Partei ermöglichen . 
+Neeman kündigte an , den ihm früher verliehenen naturwissenschaftlichen " Israel-Preis " zurückzugeben und verließ mit seinen Parteifreunden von der nationalistischen Techija-Partei den Saal der Preisverleihung . 
+Warum ist es eigentlich so schwer , diesen Rahmen zu verlassen ? 
+Sein Vater kommt nicht nach Hause , er hat seine Frau gerade verlassen . 
+Um an diese zu kommen , ist die Mehrheit der Kubaner auf Familienangehörige im Ausland angewiesen , das heißt auf jene Kubaner , die nicht teilhaben wollten an der leuchtenden Zukunft , die der Sozialismus versprach , und statt dessen Kuba verlassen haben , um vom US-Kapitalismus ausgebeutet zu werden . 
+" Dann tritt er unter Beifall ab - und verläßt die Bühne . 
+Der Beweis : Als der Hausmeister einmal Streß hatte mit einem , sagte der " Scheißhausmeister ! " , ging auf sein Zimmer , kackte auf das Bett und verließ mit seinen drei Sachen der Pfalzburger Hof in Richtung auf eine andere Notunterkunft . 
+" Mit der Trinkerin malt Ulrike Ottinger das Portrait einer vornehmen Alkoholikerin , die ihre Vergangenheit verlassen hat wie ein abbruchreifes Haus . 
+1989 bat der Chefredakteur der Volkszeitung Gao Yu , die demonstrierenden Studenten zu bewegen , den Platz des Himmlischen Friedens zu verlassen . 
+Wunder der Entsorgung : In den nächsten Tagen verläßt ein russisches Schiff den Bremer Hafen , um deutschen Müll nach Nord-Korea zu bringen 
+Obwohl der Sender in unmittelbarer Nähe des US-Konsulats und eines personell gut ausgestatteten Polizeireviers liegt , erschienen die Sicherheitskräfte erst , nachdem die Bewaffneten den Sender verwüstet un den Tatort verlassen hatten . 
+Schön ist der Sommer : Wenn die Flora ihr grünes Ausgehkostüm angelegt hat und das gefiederte Zwitschervolk in den Ästen tiriliert , drängt es auch alte Bären wie uns , den Winterschlaf abzubrechen und unsere Höhlen zu verlassen . 
+Dieses wird bei der Flüssigkeitsaufnahme moussierender Getränke ( zum Beispiel Bier ) zwangsläufig freigesetzt und verläßt , nachdem es im Verbund mit der Flüssigkeit dem Trinker ein Gefühl von Spritzigkeit und Frische vermittelt hat , augenblicklich den Wirtsorganismus über den weit geöffneten Mund . 
+Eine Mutter wie Hiltrud Schröder und auch von ihrem Mann verlassen , wenn auch durch dessen Tod und nicht durch das Abwerben einer jüngeren . 
+Doch trotz dieser Bloßlegung patriachaler Strukturen wissen wir bis heute nicht : Von wie vielen guten Geistern muß eine Frau verlassen sein , bevor sie sich ein Stück transparenten chemischen Wackelpudding in den Busen einnähen läßt ? 
+Wie Alex , diesem recht Hart-aber-herzlich-Zuhälter ( Peter Lohmeyer ) , blieb auch uns bis zu besagter Fallschirmszene verborgen : Warum nur hat die Anwältin Lena ( Corinna Harfouch ) alles verlassen für die Flucht mit einem Schwerverbrecher ? 
+Eine afrikanische Studentin hatte nach nur drei Tagen ihren Uni-Sommerkurs abgebrochen und die Stadt verlassen , nachdem sie mehrfach von Rechten angepöbelt und angegriffen worden war . 
+Unmut chinesischer Kommilitonen über höhere Stipendien / Rassismus und eine puritanische Gesellschaft erschweren das Leben afrikanischer Studenten in China / Rund 90 Prozent der Afrikaner wollen nach den Dezemberunruhen wieder das Land verlassen 
+- Obwohl exakte Zahlenangaben nicht möglich sind , gilt , daß viele Menschen in der DDR festgenommen werden , weil sie ihr Recht auf Gewissensfreiheit und freie Meinungsäußerung , Vereinigungs- und Versammlungsfreiheit sowie ihr Recht , das eigene Land zu verlassen , wahrgenommen haben . 
+Ich weiß , da die Israelis davon nichts wissen wollen , daß sie ihren Staat nicht aufgeben , das Land nicht verlassen werden . 
+" Viele Gründe sprechen dafür , die Partei zu verlassen " , endet sie : weil die " Auseinandersetzung aber noch nicht ausgestanden " ist , will sie noch bis zur Bundestagswahl 1990 weiterkämpfen . 
+Halblaut murmelte Wilhelmi etwas von " Jetzt habe ich das Affentheater satt " und verließ unter Protest den Saal . 
+Berlin ( taz ) - Völlig überraschend verließen in der Nacht zum Montag die BesetzerInnen des ehemaligen Arbeitsschutzmuseums in der Fraunhoferstraße das Gebäude . 
+Überdies wurde 23 weiteren führenden Bürgerrechtlern verboten , das Land zu verlassen . 
+Diese verbietet es sowohl Swapo als auch den südafrikanischen Truppen , ihre Lager zu verlassen . 
+Schlimmer ist , daß immer mehr Mitglieder der unterrichtenden Zunft , die in Lateinamerika nicht wie bei uns oben , sondern ganz unten auf der Gehaltsskala steht , ihren Job verlassen - oder sogar das Land . 
+Im Vergleich zu meiner gesamten Generation haben sich meine Lebensumstände sogar eher günstig und das heißt immer hoffnungsvoll entwickelt - wir haben Deutschland frühzeitig verlassen , wenigstens die engere Familie hat nicht gelitten , wir konnten zusammenbleiben und auch unter widrigen Umständen ein verhältnismäßig ruhiges Leben führen . 
+Ärzteteams haben die Krankenhäuser verlassen , um die wegen der Hitze ohnmächtig gewordenen Hungerstreikenden sofort versorgen zu können . 
+Ich möchte jetzt nicht über ein schlimmes , veraltetes Schulsystem sprechen , das mir noch sehr nah ist , nachdem ich es vor zehn Jahren verlassen habe , und das sich seitdem zum traurigen Schaden des / der einzelnen und einer Gesellschaft weiter zurückentwickelte ; 
+Seither bin ich auch anderen Jugendlichen begegnet , die erst vor kurzem das Land verlassen hatten , und auch die waren Monarchisten . 
+Ihre Hauptdarstellerin Sabra hat sich im heutigen Tunesien ganz allein auf den Weg gemacht , verläßt erst ihr Dorf , um in Tunis zu studieren , und geht am Ende des Films wie ihre Brüder ins Ausland . 
+Mit Metalldetektoren und nicht selten mit Hammer und Meißel stehen die berüchtigten Beamten überraschend in der Zelle eines " Verdächtigen " und verlassen diese erst , wenn alles rigoros durchsucht und auf den Kopf gestellt worden ist . 
+Ebenfalls mit unbekanntem Ziel verlassen , Ebenfalls mit unbekanntem Ziel verlißen der Flugzeugträger " UAA America " und seine acht bis zehn Begleitschiffe den Hafen von Singapur . 
+Denn die Zahl derjenigen , denen die DDR es verwehrt , über die Transitautobahnen Berlin zu besuchen oder zu verlassen , war schon nach der Schätzung des alten CDU-FDP-Senats gerade mal " gut vierstellig " . 
+
+Lemma: verlassen, total: 235, w/ subj-dep: 173
+
